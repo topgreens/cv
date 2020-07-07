@@ -55,9 +55,6 @@
 	animation-delay: 0, 2s;
 }
 
-
-
-
 #name {
 	float: left;
 }
@@ -90,7 +87,9 @@ a#pdf:hover { background: #222; }
 	list-style-type: none;
 	font-size: 0.9em;
     margin-top: 2px;
-    text-shadow: 2px 2px 4px #000000;
+	text-shadow: 2px 2px 4px #000000;
+	
+
 }
 
 #contactDetails ul li {
