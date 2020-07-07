@@ -1,0 +1,5 @@
+@import "normalize.css";
+@import "base/__global.css";
+@import "modules/__mainDetails";
+@import "modules/__mainArea";
+@import "modules/__footer";
